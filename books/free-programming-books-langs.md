@@ -1865,6 +1865,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### PureScript
 
 * [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
+* [Purescript Cookbook](https://github.com/JordanMartinez/purescript-cookbook) - Jordan Martinez
 
 
 ### Python
